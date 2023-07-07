@@ -1,4 +1,4 @@
-//EJEMPLO CALCUDORA
+//EJEMPLO CALCULADORA
 // SUMA
 let a = 20;
 let b = 30;
@@ -12,7 +12,6 @@ console.log(producto);
 // DIVISION
 let division = x / y;
 console.log(division);
-=======
 // RESTA
 let c = 100;
 let d = 50;
